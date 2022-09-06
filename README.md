@@ -1,1 +1,1 @@
-# odin-recipes
+# landing-page
